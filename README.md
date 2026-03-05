@@ -18,17 +18,17 @@ Before starting my master's program, I worked at ECGC Ltd. where I gained experi
 - Credit Risk Modeling
 - Market Risk
 - Quantitative Finance
-- Financial Data Analysis
+- Financial Data Analytics
 - Machine Learning in Finance
 
 ---
 
 ## Technical Skills
 
-**Programming:** Python, R  
-**Data Analysis:** Pandas, NumPy, Power BI, Excel  
-**Modeling:** Regression Models, Survival Analysis, Monte Carlo Simulation  
-**Tools:** Scikit-learn, Lifelines, Matplotlib  
+**Programming:** Python, SQL, R  
+**Packages/Libraries:** NumPy, Pandas, SciPy, Matplotlib, Scikit-learn, statsmodels 
+**Machine Learning:** Supervised Learning (Regression & Classification), Regularization (Lasso, Ridge, Elastic Net), Tree-Based Models, Cross-Validation  
+**Technical Tools:** MS-Excel, Power BI, Bloomberg Terminal
 
 ---
 
@@ -48,5 +48,5 @@ Technologies used:
 
 ## Connect With Me
 
-📧 Email: balodi619@gmail.com  
-💼 LinkedIn: https://www.linkedin.com  
+📧 Email: sbalodi@ncsu.edu  
+💼 LinkedIn: https://www.linkedin.com/in/shubham-balodi-frm-0b135b163/
