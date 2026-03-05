@@ -1,7 +1,7 @@
 # Hi, I'm Shubham Balodi 👋
 
 🎓 MS Financial Mathematics Student at North Carolina State University  
-📊 Interested in Quantitative Finance, Risk Modeling, and Financial Data Science  
+📊 Interested in Quantitative Finance, Risk Modeling, and Financial Data Analytics 
 
 ---
 
@@ -23,14 +23,24 @@ I am a graduate student in Financial Mathematics at NC State with interests in q
 
 ## Technical Skills
 
-**Programming:** Python, SQL, R  
-**Packages/Libraries:** NumPy, Pandas, SciPy, Matplotlib, Scikit-learn, statsmodels
-**Machine Learning:** Supervised Learning (Regression & Classification), Regularization (Lasso, Ridge, Elastic Net), Tree-Based Models, Cross-Validation  
-**Technical Tools:** MS-Excel, Power BI, Bloomberg Terminal
+**Programming**  
+Python • SQL • R  
+
+**Libraries / Packages**  
+NumPy • Pandas • SciPy • Matplotlib • Scikit-learn • statsmodels  
+
+**Machine Learning**  
+Supervised Learning (Regression, Classification)  
+Regularization (Lasso, Ridge, Elastic Net)  
+Tree-Based Models  
+Cross-Validation  
+
+**Tools**  
+Excel • Power BI • Bloomberg Terminal
 
 ---
 
-## Projects
+## Featured Projects
 
 ### Modeling Asymmetric Volatility using GJR-GARCH
 Implementation of a **GJR-GARCH model with Student's t innovations** to capture asymmetric volatility and leverage effects in financial returns.
