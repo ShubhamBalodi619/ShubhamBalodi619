@@ -1,4 +1,4 @@
-# Hi, I'm Shubham Balodi 👋
+# Hi, I'm Shubham 👋
 
 🎓 MS Financial Mathematics Student at North Carolina State University  
 📊 Interested in Quantitative Finance, Risk Modeling, and Financial Data Analytics 
