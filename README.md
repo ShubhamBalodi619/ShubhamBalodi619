@@ -30,34 +30,71 @@ I am a graduate student in Financial Mathematics at NC State with interests in q
 
 ---
 
-## Featured Project
+## Projects
 
-## Modeling Asymmetric Volatility in Financial Assets (GJR-GARCH)
-- Implementing a **GJR-GARCH model with Student’s t innovations** to capture asymmetric volatility and leverage effects in equity returns.
-- Conducting stationarity and volatility diagnostics (ADF, Ljung-Box).
-- Generating conditional volatility forecasts to analyze evolving market risk regimes.
+### Modeling Asymmetric Volatility using GJR-GARCH
+Implementation of a **GJR-GARCH model with Student's t innovations** to capture asymmetric volatility and leverage effects in financial returns.
 
-## Mortgage-Backed Securities Risk Modeling
-- Built Python models to analyze **credit risk, prepayment risk, and interest rate risk** in mortgage-backed securities.
-- Modeled default risk using **Logistic Regression (ROC-AUC: 0.83)** and **Cox Proportional Hazards models (C-index: 0.762)**.
-- Analyzed prepayment behavior using the **PSA prepayment model**.
-- Simulated interest rate paths using **Monte Carlo methods under the Vasicek model**.
+Key components:
+- Stationarity testing (**ADF test**)
+- Volatility diagnostics (**Ljung–Box test**)
+- Residual diagnostics and model validation
+- Multi-step volatility forecasting
 
-## Credit Risk Modeling using Logistic Regression
-- Developed a classification model to predict borrower default probabilities.
-- Performed feature engineering and model evaluation using **Python and Scikit-learn**.
-- Achieved **82.4% accuracy and AUC of 0.898**.
+Tech: Python, NumPy, Pandas, statsmodels
 
-## Option Pricing Models
-- Implemented **Black–Scholes, Binomial Tree, and Monte Carlo option pricing models**.
-- Built models using **Python and Excel** to analyze derivative pricing under different assumptions.
+---
 
-## Value at Risk (VaR) Modeling
-- Built a **VaR calculator** implementing:
-  - Historical VaR
-  - Parametric (Variance-Covariance) VaR
-  - Monte Carlo VaR
-- Implemented models in **Python and Excel**.
+### Mortgage-Backed Securities Risk Modeling
+Python models to analyze credit, prepayment, and interest rate risks in mortgage-backed securities using Freddie Mac loan-level data and macroeconomic variables.
+
+Key components:
+- Default prediction using **Logistic Regression (ROC-AUC: 0.83)**
+- **Cox Proportional Hazards model** for time-to-default analysis
+- Prepayment modeling using the **PSA benchmark model**
+- Interest rate simulations using **Monte Carlo under Vasicek dynamics**
+
+Tech: Python, Pandas, Scikit-learn, Lifelines, NumPy
+
+---
+
+### Credit Risk Modeling with Logistic Regression
+Binary classification model to estimate borrower default probabilities using financial and borrower characteristics.
+
+Key components:
+- Data preprocessing and feature engineering
+- Model training using **Scikit-learn**
+- Model evaluation using **ROC-AUC and accuracy metrics**
+
+Results:
+- Accuracy: **82.4%**
+- AUC: **0.898**
+
+Tech: Python, Pandas, NumPy, Scikit-learn
+
+---
+
+### Option Pricing Models
+Implementation of classical derivative pricing models for European options.
+
+Models implemented:
+- **Black–Scholes model**
+- **Binomial tree model**
+- **Monte Carlo simulation**
+
+Tech: Python, NumPy, Excel
+
+---
+
+### Value at Risk (VaR) Modeling
+Risk measurement framework for estimating portfolio Value at Risk.
+
+Methods implemented:
+- **Historical VaR**
+- **Parametric (Variance-Covariance) VaR**
+- **Monte Carlo VaR**
+
+Tech: Python, NumPy, Pandas, Matplotlib, Excel
 ---
 
 ## Connect With Me
