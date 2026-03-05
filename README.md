@@ -9,8 +9,6 @@
 
 I am a graduate student in Financial Mathematics at NC State with interests in quantitative risk modeling, financial markets, and data-driven decision making. My work focuses on applying statistical models and machine learning techniques to problems in finance.
 
-Before starting my master's program, I worked at ECGC Ltd. where I gained experience in credit risk assessment and policy underwriting in the export credit insurance domain.
-
 ---
 
 ## Areas of Interest
