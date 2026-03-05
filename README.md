@@ -24,7 +24,7 @@ I am a graduate student in Financial Mathematics at NC State with interests in q
 ## Technical Skills
 
 **Programming:** Python, SQL, R  
-**Packages/Libraries:** NumPy, Pandas, SciPy, Matplotlib, Scikit-learn, statsmodels 
+**Packages/Libraries:** NumPy, Pandas, SciPy, Matplotlib, Scikit-learn, statsmodels
 **Machine Learning:** Supervised Learning (Regression & Classification), Regularization (Lasso, Ridge, Elastic Net), Tree-Based Models, Cross-Validation  
 **Technical Tools:** MS-Excel, Power BI, Bloomberg Terminal
 
