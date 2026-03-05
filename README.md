@@ -1,13 +1,13 @@
 # Hi, I'm Shubham 👋
 
-🎓 MS Financial Mathematics Student at North Carolina State University  
+🎓 MS Financial Mathematics Student at North Carolina State University
 📊 Interested in Quantitative Finance, Risk Modeling, and Financial Data Analytics 
 
 ---
 
 ## About Me
 
-I am a graduate student in Financial Mathematics at NC State with interests in quantitative risk modeling, financial markets, and data-driven decision making. My work focuses on applying statistical models and machine learning techniques to problems in finance.
+I am a graduate student in Financial Mathematics at NC State with interests in quantitative risk modeling, financial markets, and data-driven decision making. I am also a certified FRM charterholder. My work focuses on applying statistical models and machine learning techniques to problems in finance.
 
 ---
 
